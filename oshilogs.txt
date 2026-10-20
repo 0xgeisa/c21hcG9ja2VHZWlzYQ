@@ -12,92 +12,153 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Geisa =====
-[1]Geisa       |09:38:13 | 19-10-2026| login OK @mygeisa | score=1390 rank=4939
-[1]Geisa       |09:38:13 | 19-10-2026| serverTime=2026-10-19T09:38:12.000Z local=2026-10-19T09:38:13.636Z
+[1]Geisa       |09:11:01 | 20-10-2026| login OK @mygeisa | score=1530 rank=4582
+[1]Geisa       |09:11:01 | 20-10-2026| serverTime=2026-10-20T09:11:01.000Z local=2026-10-20T09:11:01.508Z
 --> [1]Geisa menjalankan: Claim Daily
-[1]Geisa       |09:38:15 | 19-10-2026| daily: OK +10 poin score=1400
---> [1]Geisa menjalankan: Auto All Tasks (13 pending)
-[1]Geisa       |09:38:17 | 19-10-2026| [1/13] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112115766015907669
-[1]Geisa       |09:38:17 | 19-10-2026| delay 10s...
-[1]Geisa       |09:38:30 | 19-10-2026| [2/13] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112115798504015545
-[1]Geisa       |09:38:30 | 19-10-2026| delay 10s...
-[1]Geisa       |09:38:44 | 19-10-2026| [3/13] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112115728674172512
-[1]Geisa       |09:38:44 | 19-10-2026| delay 10s...
-[1]Geisa       |09:38:58 | 19-10-2026| [4/13] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112115745919036632
-[1]Geisa       |09:38:58 | 19-10-2026| delay 10s...
-[1]Geisa       |09:39:11 | 19-10-2026| [5/13] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112115768397399515
-[1]Geisa       |09:39:11 | 19-10-2026| delay 10s...
-[1]Geisa       |09:39:23 | 19-10-2026| [6/13] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112115901566918466
-[1]Geisa       |09:39:23 | 19-10-2026| delay 10s...
-[1]Geisa       |09:39:36 | 19-10-2026| [7/13] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112116122005409143
-[1]Geisa       |09:39:36 | 19-10-2026| delay 10s...
-[1]Geisa       |09:39:50 | 19-10-2026| [8/13] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112115962195961158
-[1]Geisa       |09:39:50 | 19-10-2026| delay 10s...
-[1]Geisa       |09:40:04 | 19-10-2026| [9/13] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112116243597273536
-[1]Geisa       |09:40:04 | 19-10-2026| delay 10s...
-[1]Geisa       |09:40:17 | 19-10-2026| [10/13] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169
-[1]Geisa       |09:40:17 | 19-10-2026| delay 10s...
-[1]Geisa       |09:40:30 | 19-10-2026| [11/13] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112116300113101289
-[1]Geisa       |09:40:30 | 19-10-2026| delay 10s...
-[1]Geisa       |09:40:44 | 19-10-2026| [12/13] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112116425008891214
-[1]Geisa       |09:40:44 | 19-10-2026| delay 10s...
-[1]Geisa       |09:40:58 | 19-10-2026| [13/13] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/mygeisa/status/2112116196747095768
-[1]Geisa       |09:40:58 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Geisa       |09:41:00 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/mygeisa/status/2112116512929221420
+[1]Geisa       |09:11:03 | 20-10-2026| daily: OK +10 poin score=1540
+--> [1]Geisa menjalankan: Auto All Tasks (6 pending)
+[1]Geisa       |09:11:05 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mygeisa/status/2112471061545218158
+[1]Geisa       |09:11:05 | 20-10-2026| delay 10s...
+[1]Geisa       |09:11:17 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mygeisa/status/2112471157931787347
+[1]Geisa       |09:11:17 | 20-10-2026| delay 10s...
+[1]Geisa       |09:11:29 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mygeisa/status/2112471362240871878
+[1]Geisa       |09:11:29 | 20-10-2026| delay 10s...
+[1]Geisa       |09:11:42 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mygeisa/status/2112471475688729024
+[1]Geisa       |09:11:42 | 20-10-2026| delay 10s...
+[1]Geisa       |09:11:54 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mygeisa/status/2112471380857721641
+[1]Geisa       |09:11:54 | 20-10-2026| delay 10s...
+[1]Geisa       |09:12:06 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mygeisa/status/2112471368223896806
+[1]Geisa       |09:12:06 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Geisa       |09:12:08 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/mygeisa/status/2112471507281929352
 --> [1]Geisa menjalankan: Watch Anime
-[1]Geisa       |09:41:01 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Geisa       |09:41:01 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Geisa       |09:41:03 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Geisa       |09:41:08 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Geisa       |09:41:11 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Geisa       |09:41:16 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Geisa       |09:41:18 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Geisa       |09:41:23 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Geisa       |09:41:25 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Geisa       |09:12:09 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Geisa       |09:12:09 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Geisa       |09:12:11 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Geisa       |09:12:18 | 20-10-2026| watch oshi-captains-hat: 5% (5.25/92.00s)
+[1]Geisa       |09:12:24 | 20-10-2026| watch oshi-captains-hat: 12% (11.29/92.00s)
+[1]Geisa       |09:12:30 | 20-10-2026| watch oshi-captains-hat: 18% (16.87/92.00s)
+[1]Geisa       |09:12:37 | 20-10-2026| watch oshi-captains-hat: 24% (22.61/92.00s)
+[1]Geisa       |09:12:43 | 20-10-2026| watch oshi-captains-hat: 30% (28.33/92.00s)
+[1]Geisa       |09:12:49 | 20-10-2026| watch oshi-captains-hat: 37% (34.30/92.00s)
+[1]Geisa       |09:12:55 | 20-10-2026| watch oshi-captains-hat: 43% (39.80/92.00s)
+[1]Geisa       |09:13:02 | 20-10-2026| watch oshi-captains-hat: 49% (45.31/92.00s)
+[1]Geisa       |09:13:09 | 20-10-2026| watch oshi-captains-hat: 55% (50.87/92.00s)
+[1]Geisa       |09:13:15 | 20-10-2026| watch oshi-captains-hat: 62% (57.07/92.00s)
+[1]Geisa       |09:13:21 | 20-10-2026| watch oshi-captains-hat: 68% (62.65/92.00s)
+[1]Geisa       |09:13:27 | 20-10-2026| watch oshi-captains-hat: 74% (68.20/92.00s)
+[1]Geisa       |09:13:34 | 20-10-2026| watch oshi-captains-hat: 80% (73.81/92.00s)
+[1]Geisa       |09:13:40 | 20-10-2026| watch oshi-captains-hat: 86% (79.78/92.00s)
+[1]Geisa       |09:13:48 | 20-10-2026| watch oshi-captains-hat: 92% (85.31/92.00s)
+[1]Geisa       |09:13:48 | 20-10-2026| watch oshi-captains-hat: COMPLETED (85.31/92.00s)
+[1]Geisa       |09:13:53 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Geisa       |09:13:54 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Geisa       |09:14:01 | 20-10-2026| watch oshi-rainbow-star: 6% (5.25/86.00s)
+[1]Geisa       |09:14:07 | 20-10-2026| watch oshi-rainbow-star: 12% (10.99/86.00s)
+[1]Geisa       |09:14:14 | 20-10-2026| watch oshi-rainbow-star: 19% (16.65/86.00s)
+[1]Geisa       |09:14:20 | 20-10-2026| watch oshi-rainbow-star: 26% (22.43/86.00s)
+[1]Geisa       |09:14:26 | 20-10-2026| watch oshi-rainbow-star: 32% (27.95/86.00s)
+[1]Geisa       |09:14:32 | 20-10-2026| watch oshi-rainbow-star: 38% (33.48/86.00s)
+[1]Geisa       |09:14:39 | 20-10-2026| watch oshi-rainbow-star: 45% (39.15/86.00s)
+[1]Geisa       |09:14:45 | 20-10-2026| watch oshi-rainbow-star: 52% (45.20/86.00s)
+[1]Geisa       |09:14:51 | 20-10-2026| watch oshi-rainbow-star: 59% (50.75/86.00s)
+[1]Geisa       |09:14:58 | 20-10-2026| watch oshi-rainbow-star: 65% (56.29/86.00s)
+[1]Geisa       |09:15:05 | 20-10-2026| watch oshi-rainbow-star: 72% (62.53/86.00s)
+[1]Geisa       |09:15:11 | 20-10-2026| watch oshi-rainbow-star: 79% (68.51/86.00s)
+[1]Geisa       |09:15:29 | 20-10-2026| watch oshi-rainbow-star: heartbeat GAGAL http=503
+[1]Geisa       |09:15:34 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Geisa       |09:15:36 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Geisa       |09:15:42 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.23/87.00s)
+[1]Geisa       |09:15:48 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.89/87.00s)
+[1]Geisa       |09:15:55 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (16.39/87.00s)
+[1]Geisa       |09:16:01 | 20-10-2026| watch oshi-rainbow-lighthouse: 25% (21.91/87.00s)
+[1]Geisa       |09:16:07 | 20-10-2026| watch oshi-rainbow-lighthouse: 31% (27.59/87.00s)
+[1]Geisa       |09:16:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 38% (33.23/87.00s)
+[1]Geisa       |09:16:20 | 20-10-2026| watch oshi-rainbow-lighthouse: 44% (38.73/87.00s)
+[1]Geisa       |09:16:26 | 20-10-2026| watch oshi-rainbow-lighthouse: 50% (44.32/87.00s)
+[1]Geisa       |09:16:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 57% (49.86/87.00s)
+[1]Geisa       |09:16:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 63% (55.60/87.00s)
+[1]Geisa       |09:16:44 | 20-10-2026| watch oshi-rainbow-lighthouse: 70% (61.15/87.00s)
+[1]Geisa       |09:16:51 | 20-10-2026| watch oshi-rainbow-lighthouse: 76% (66.68/87.00s)
+[1]Geisa       |09:16:57 | 20-10-2026| watch oshi-rainbow-lighthouse: 83% (72.24/87.00s)
+[1]Geisa       |09:17:03 | 20-10-2026| watch oshi-rainbow-lighthouse: 89% (78.08/87.00s)
+[1]Geisa       |09:17:09 | 20-10-2026| watch oshi-rainbow-lighthouse: 96% (83.57/87.00s)
+[1]Geisa       |09:17:09 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (83.57/87.00s)
+[1]Geisa       |09:17:14 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Geisa       |09:17:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Geisa       |09:17:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.27/181.00s)
+[1]Geisa       |09:17:29 | 20-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.08/181.00s)
+[1]Geisa       |09:17:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.61/181.00s)
+[1]Geisa       |09:17:42 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.57/181.00s)
+[1]Geisa       |09:17:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.23/181.00s)
+[1]Geisa       |09:17:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.72/181.00s)
+[1]Geisa       |09:18:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.45/181.00s)
+[1]Geisa       |09:18:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.96/181.00s)
+[1]Geisa       |09:18:12 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (50.49/181.00s)
+[1]Geisa       |09:18:19 | 20-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.99/181.00s)
+[1]Geisa       |09:18:25 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.53/181.00s)
+[1]Geisa       |09:18:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 37% (67.07/181.00s)
+[1]Geisa       |09:18:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 40% (72.62/181.00s)
+[1]Geisa       |09:18:44 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (78.77/181.00s)
+[1]Geisa       |09:18:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.31/181.00s)
+[1]Geisa       |09:18:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 49% (89.82/181.00s)
+[1]Geisa       |09:19:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.33/181.00s)
+[1]Geisa       |09:19:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.08/181.00s)
+[1]Geisa       |09:19:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: 58% (106.65/181.00s)
+[1]Geisa       |09:19:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.83/181.00s)
+[1]Geisa       |09:19:28 | 20-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.67/181.00s)
+[1]Geisa       |09:19:34 | 20-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.23/181.00s)
+[1]Geisa       |09:19:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 71% (129.73/181.00s)
+[1]Geisa       |09:19:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 74% (135.29/181.00s)
+[1]Geisa       |09:19:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.58/181.00s)
+[1]Geisa       |09:20:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.30/181.00s)
+[1]Geisa       |09:20:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 84% (152.84/181.00s)
+[1]Geisa       |09:20:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.40/181.00s)
+[1]Geisa       |09:20:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.40/181.00s)
+[1]Geisa       |09:20:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.97/181.00s)
+[1]Geisa       |09:20:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.97/181.00s)
 --> [1]Geisa menjalankan: Read Article
-[1]Geisa       |09:41:28 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Geisa       |09:41:29 | 19-10-2026| mint eligibility: {"userId":"1723331132752838656","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@geisanatania","status":"submitted","revision":"8ef20d71-0ba2-4a92-8ead-6034f56f1
-[1]Geisa       |09:41:29 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Geisa       |09:20:38 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Geisa       |09:20:39 | 20-10-2026| mint eligibility: {"userId":"1723331132752838656","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@geisanatania","status":"submitted","revision":"8ef20d71-0ba2-4a92-8ead-6034f56f1
+[1]Geisa       |09:20:39 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Geisa menjalankan: Quiz Anime
-[1]Geisa       |09:41:29 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Geisa       |09:41:29 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Geisa       |09:41:29 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Geisa       |09:41:29 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Geisa       |09:41:29 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Geisa       |09:41:29 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Geisa       |09:20:39 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Geisa       |09:20:39 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Geisa       |09:20:39 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Geisa       |09:20:39 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Geisa       |09:20:39 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Geisa       |09:20:39 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Geisa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Geisa       |09:41:33 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Geisa       |09:41:33 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Geisa       |09:41:33 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Geisa       |09:41:33 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Geisa       |09:20:41 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Geisa       |09:20:42 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Geisa       |09:20:42 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Geisa       |09:20:42 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Geisa menjalankan: Claim Missions
-[1]Geisa       |09:41:34 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Geisa       |09:41:34 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Geisa       |09:41:34 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Geisa       |09:20:42 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Geisa       |09:20:42 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Geisa       |09:20:42 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Geisa menjalankan: Check Eligibility
 
 --- eligibility [1]Geisa ---
-  @mygeisa | score=1390 rank=4939
-  tasks    [#################---] 70/83
+  @mygeisa | score=1530 rank=4582
+  tasks    [##################--] 73/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 21/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Geisa menjalankan: Read Manga
-[1]Geisa       |09:41:42 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Geisa       |09:20:46 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Geisa menjalankan: Get Gift
-[1]Geisa       |09:41:42 | 19-10-2026| gift: 0/4 belum diterima
+[1]Geisa       |09:20:47 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Geisa menjalankan: Setup Profile
-[1]Geisa       |09:41:44 | 19-10-2026| profile: bio="https://x.com/mygeisa" fav=kagura rewardAt=1791688955
-[1]Geisa       |09:41:44 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Geisa       |09:20:47 | 20-10-2026| profile: bio="https://x.com/mygeisa" fav=kagura rewardAt=1791688955
+[1]Geisa       |09:20:47 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Geisa menjalankan: Bind Wallet
-[1]Geisa       |09:41:44 | 19-10-2026| wallet: sudah terikat 3guJZoRww4... (solana)
+[1]Geisa       |09:20:48 | 20-10-2026| wallet: sudah terikat 3guJZoRww4... (solana)
 
 == RINGKASAN ==
-- Geisa: daily=claimed | tasks OK 14/14 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Geisa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false

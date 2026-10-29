@@ -12,47 +12,51 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Geisa =====
-[1]Geisa       |06:43:03 | 28-10-2026| login OK @mygeisa | score=2260 rank=3443
-[1]Geisa       |06:43:03 | 28-10-2026| serverTime=2026-10-28T06:43:03.000Z local=2026-10-28T06:43:03.873Z
+[1]Geisa       |06:50:27 | 29-10-2026| login OK @mygeisa | score=2340 rank=3332
+[1]Geisa       |06:50:27 | 29-10-2026| serverTime=2026-10-29T06:50:27.000Z local=2026-10-29T06:50:27.659Z
 --> [1]Geisa menjalankan: Claim Daily
-[1]Geisa       |06:43:04 | 28-10-2026| daily: OK +10 poin score=2270
---> [1]Geisa menjalankan: Auto All Tasks (7 pending)
-[1]Geisa       |06:43:07 | 28-10-2026| [1/7] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/mygeisa/status/2115332959154209831
-[1]Geisa       |06:43:07 | 28-10-2026| delay 10s...
-[1]Geisa       |06:43:19 | 28-10-2026| [2/7] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/mygeisa/status/2115332960495029085
-[1]Geisa       |06:43:19 | 28-10-2026| delay 10s...
-[1]Geisa       |06:43:32 | 28-10-2026| [3/7] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/mygeisa/status/2115333351548857923
-[1]Geisa       |06:43:32 | 28-10-2026| delay 10s...
-[1]Geisa       |06:43:44 | 28-10-2026| [4/7] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/mygeisa/status/2115333263198212049
-[1]Geisa       |06:43:44 | 28-10-2026| delay 10s...
-[1]Geisa       |06:43:56 | 28-10-2026| [5/7] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/mygeisa/status/2115333116229893284
-[1]Geisa       |06:43:56 | 28-10-2026| delay 10s...
-[1]Geisa       |06:44:09 | 28-10-2026| [6/7] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/mygeisa/status/2115333306277108540
-[1]Geisa       |06:44:09 | 28-10-2026| delay 10s...
-[1]Geisa       |06:44:21 | 28-10-2026| [7/7] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/mygeisa/status/2115333345629033669
-[1]Geisa       |06:44:21 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Geisa       |06:44:23 | 28-10-2026| [1/1] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115068456987189 | proof=https://x.com/mygeisa/status/2115333221474526352
+[1]Geisa       |06:50:29 | 29-10-2026| daily: OK +10 poin score=2350
+--> [1]Geisa menjalankan: Auto All Tasks (9 pending)
+[1]Geisa       |06:50:30 | 29-10-2026| [1/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/mygeisa/status/2115697302609679016
+[1]Geisa       |06:50:30 | 29-10-2026| delay 10s...
+[1]Geisa       |06:50:42 | 29-10-2026| [2/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/mygeisa/status/2115697448856722066
+[1]Geisa       |06:50:42 | 29-10-2026| delay 10s...
+[1]Geisa       |06:50:55 | 29-10-2026| [3/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/mygeisa/status/2115697528502780370
+[1]Geisa       |06:50:55 | 29-10-2026| delay 10s...
+[1]Geisa       |06:51:07 | 29-10-2026| [4/9] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/mygeisa/status/2115697291301686577
+[1]Geisa       |06:51:07 | 29-10-2026| delay 10s...
+[1]Geisa       |06:51:19 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/mygeisa/status/2115697484104620235
+[1]Geisa       |06:51:19 | 29-10-2026| delay 10s...
+[1]Geisa       |06:51:31 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/mygeisa/status/2115697475403276977
+[1]Geisa       |06:51:31 | 29-10-2026| delay 10s...
+[1]Geisa       |06:51:43 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/mygeisa/status/2115697505535076824
+[1]Geisa       |06:51:43 | 29-10-2026| delay 10s...
+[1]Geisa       |06:51:55 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/mygeisa/status/2115697545553003423
+[1]Geisa       |06:51:55 | 29-10-2026| delay 10s...
+[1]Geisa       |06:52:07 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944
+[1]Geisa       |06:52:07 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Geisa       |06:52:09 | 29-10-2026| [1/1] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115605314649444 | proof=https://x.com/mygeisa/status/2115697608448668465
 --> [1]Geisa menjalankan: Watch Anime
-[1]Geisa       |06:44:24 | 28-10-2026| watch: semua video sudah completed
+[1]Geisa       |06:52:10 | 29-10-2026| watch: semua video sudah completed
 --> [1]Geisa menjalankan: Read Article
-[1]Geisa       |06:44:26 | 28-10-2026| news: 30/30 artikel selesai dibaca
-[1]Geisa       |06:44:26 | 28-10-2026| mint eligibility: {"userId":"1723331132752838656","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@geisanatania","status":"submitted","revision":"8ef20d71-0ba2-4a92-8ead-6034f56f1
-[1]Geisa       |06:44:26 | 28-10-2026| news: semua artikel sudah dibaca
+[1]Geisa       |06:52:11 | 29-10-2026| news: 30/30 artikel selesai dibaca
+[1]Geisa       |06:52:12 | 29-10-2026| mint eligibility: {"userId":"1723331132752838656","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@geisanatania","status":"submitted","revision":"8ef20d71-0ba2-4a92-8ead-6034f56f1
+[1]Geisa       |06:52:12 | 29-10-2026| news: semua artikel sudah dibaca
 --> [1]Geisa menjalankan: Quiz Anime
 --> [1]Geisa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Geisa       |06:44:29 | 28-10-2026| music: kedua misi sudah tercapai, stop
-[1]Geisa       |06:44:30 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Geisa       |06:44:30 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Geisa       |06:44:30 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Geisa       |06:52:14 | 29-10-2026| music: kedua misi sudah tercapai, stop
+[1]Geisa       |06:52:15 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Geisa       |06:52:15 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Geisa       |06:52:15 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Geisa menjalankan: Claim Missions
-[1]Geisa       |06:44:30 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Geisa       |06:44:30 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Geisa       |06:44:30 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Geisa       |06:52:16 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Geisa       |06:52:16 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Geisa       |06:52:16 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Geisa menjalankan: Check Eligibility
 
 --- eligibility [1]Geisa ---
-  @mygeisa | score=2260 rank=3443
-  tasks    [############--------] 10/17
+  @mygeisa | score=2340 rank=3332
+  tasks    [#########-----------] 8/17
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -63,15 +67,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Geisa menjalankan: Read Manga
-[1]Geisa       |06:44:34 | 28-10-2026| manga: 0/13 chapter belum completed
+[1]Geisa       |06:52:19 | 29-10-2026| manga: 0/13 chapter belum completed
 --> [1]Geisa menjalankan: Get Gift
-[1]Geisa       |06:44:35 | 28-10-2026| gift: 1/5 belum diterima
-[1]Geisa       |06:44:36 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
+[1]Geisa       |06:52:20 | 29-10-2026| gift: 0/5 belum diterima
 --> [1]Geisa menjalankan: Setup Profile
-[1]Geisa       |06:44:38 | 28-10-2026| profile: bio="https://x.com/mygeisa" fav=kagura rewardAt=1791688955
-[1]Geisa       |06:44:38 | 28-10-2026| profile: bonus sudah diklaim, skip
+[1]Geisa       |06:52:20 | 29-10-2026| profile: bio="https://x.com/mygeisa" fav=kagura rewardAt=1791688955
+[1]Geisa       |06:52:20 | 29-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Geisa menjalankan: Bind Wallet
-[1]Geisa       |06:44:39 | 28-10-2026| wallet: sudah terikat 3guJZoRww4... (solana)
+[1]Geisa       |06:52:21 | 29-10-2026| wallet: sudah terikat 3guJZoRww4... (solana)
 
 == RINGKASAN ==
-- Geisa: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
+- Geisa: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
